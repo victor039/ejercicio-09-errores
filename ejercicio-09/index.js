@@ -19,8 +19,3 @@ function muestraError() {
   }
   
 
-/*
-
-logger.debug("Hola estoy saliendo por pantalla")
-logger.info("Hola informacion")
-logger.error("Hola soy un error")*/
